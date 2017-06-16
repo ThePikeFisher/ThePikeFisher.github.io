@@ -1,0 +1,43 @@
+h1{
+color:black;
+}
+body{background:lightgreen;
+}
+.navbar-inverse .navbar-brand{
+	background:#072656;
+	color:white;
+	font-family: 'Istok Web', sans-serif;
+}
+
+.navbar-inverse{
+	background:#072656
+}
+.navbar-inverse .navbar-nav li a{
+	color:white;
+ }
+
+#gda{
+	width:400px;
+}
+
+
+#Aa{
+   width:600px;
+}
+#fjäll{
+	width:800px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
